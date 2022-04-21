@@ -21,6 +21,4 @@ class ViewPagerAdapter(iconList: ArrayList<Int>) : RecyclerView.Adapter<ViewPage
 
             val icon = itemView.imageView_icon!!
         }
-
-
 }
